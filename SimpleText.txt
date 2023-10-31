@@ -1,1 +1,3 @@
-this is simple life
+this is simple text
+this is simple text1
+this is simple text2
